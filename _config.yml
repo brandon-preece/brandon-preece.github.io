@@ -53,6 +53,10 @@ footer_links:
     url: https://github.com/brandon-preece
     icon: fa fa-github-square
 
+  - title: Mastodon
+    url: https://mas.to/@bcp
+    icon: fa fa-mastodon-square    
+
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
